@@ -1050,8 +1050,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _useWss: 1
   _sslConfiguration:
-    Enabled: 1
-    CertificatePath: ./cert.pfx
+    Enabled: 0
+    CertificatePath: 
     CertificatePassword: 
     SslProtocol: 0
   _mtu: 1023
