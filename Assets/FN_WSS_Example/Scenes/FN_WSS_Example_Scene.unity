@@ -427,7 +427,6 @@ MonoBehaviour:
   _scenePathHash: 2758682558
   <SceneId>k__BackingField: 11848451367432848541
   _sceneNetworkObjects:
-  - {fileID: 0}
   - {fileID: 1395108268}
 --- !u!114 &1395108269
 MonoBehaviour:
@@ -1058,7 +1057,7 @@ MonoBehaviour:
   _mtu: 1023
   _port: 7771
   _maximumClients: 2000
-  _clientAddress: gooby.xyz
+  _clientAddress: ec2-13-37-162-111.eu-west-3.compute.amazonaws.com
 --- !u!114 &7443408886775330641
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1077,7 +1076,7 @@ MonoBehaviour:
   _ipv6BindAddress: 
   _port: 7770
   _maximumClients: 4095
-  _clientAddress: 137.184.71.96
+  _clientAddress: 13.37.162.111
   _timeout: 15
 --- !u!114 &7443408886775330642
 MonoBehaviour:
